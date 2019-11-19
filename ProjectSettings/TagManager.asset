@@ -7,6 +7,11 @@ TagManager:
   - Restricted
   - Finger
   - Button
+  - Dead
+  - Enemy
+  - HandR
+  - HandL
+  - CastingNode
   layers:
   - Default
   - TransparentFX
